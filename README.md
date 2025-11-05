@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm G Thimmaraju
 
-## 🚀 Senior Engineer | 💻 Test Automation Architect | 👨‍🏫 Technical Trainer
+## 🚀 Corporate trainer | 💻 Test Automation Architect | 👨‍🏫 Technical Trainer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thimmaraju-g-9ab7275b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Thimmaraju)
