@@ -102,6 +102,15 @@ I'm a passionate Test Automation Architect with 12+ years of experience in Softw
 - Mobile Testing
 - Cloud Integration
 
+
+
+<a href="https://github.com/Thimmaraju">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thimmaraju&show_icons=true&theme=merko&count_private=true" alt="Thimmaraju's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimmaraju&theme=merko&layout=compact" alt="Thimmaraju's github top languages" />
+</a>
+<br/>
+<br/>
+
 ### 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thimmaraju-g-9ab7275b/)
@@ -116,5 +125,7 @@ I'm a passionate Test Automation Architect with 12+ years of experience in Softw
 - Advanced JavaScript Developer
 - Cloud Platform Proficient
 
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 ---
 ⭐️ From [G Thimmaraju](https://github.com/Thimmaraju)
